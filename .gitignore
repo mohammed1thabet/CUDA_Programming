@@ -1,0 +1,19 @@
+# Visual Studio files
+*.user
+*.suo
+*.ipch
+*.log
+
+# Build outputs
+x64/
+*.exe
+*.dll
+*.obj
+*.pch
+*.idb
+*.pdb
+*.ilk
+
+# Other temporary files
+.vscode/
+.vs/
